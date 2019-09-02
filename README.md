@@ -2,6 +2,8 @@
 
 Description: This project is to Create an AWS instance with Jenkins installed in it.
 
-Process:
+Process: 
+
+        1) Create an IAM Policy
 
     
